@@ -168,3 +168,9 @@ File → Legacy class representing a file or directory
 
 2. [ c ] Refactor the source code to *one file-one class* structure
     *Done*
+
+## 8) Mini project 03_01
+   *Done*
+   
+## 9) Push the commits to the remote repository
+   *Done*
